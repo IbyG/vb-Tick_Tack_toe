@@ -1,0 +1,22 @@
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\bin\Debug\tic tack toe.exe.config
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\bin\Debug\tic tack toe.exe
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\bin\Debug\tic tack toe.pdb
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\bin\Debug\tic tack toe.xml
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\obj\Debug\tic_tack_toe.Form1.resources
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\obj\Debug\tic_tack_toe.Resources.resources
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\obj\Debug\tic tack toe.vbproj.GenerateResource.Cache
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\obj\Debug\tic tack toe.exe
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\obj\Debug\tic tack toe.xml
+C:\Users\ibi\Desktop\tic tack toe\tic tack toe\obj\Debug\tic tack toe.pdb
+E:\visual share\tic tack toe\tic tack toe\bin\Debug\tic tack toe.exe.config
+E:\visual share\tic tack toe\tic tack toe\bin\Debug\tic tack toe.exe
+E:\visual share\tic tack toe\tic tack toe\bin\Debug\tic tack toe.pdb
+E:\visual share\tic tack toe\tic tack toe\bin\Debug\tic tack toe.xml
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic tack toe.vbprojAssemblyReference.cache
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic_tack_toe.Form1.resources
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic_tack_toe.Resources.resources
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic tack toe.vbproj.GenerateResource.cache
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic tack toe.vbproj.CoreCompileInputs.cache
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic tack toe.exe
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic tack toe.xml
+E:\visual share\tic tack toe\tic tack toe\obj\Debug\tic tack toe.pdb
